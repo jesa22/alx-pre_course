@@ -1,1 +1,1 @@
-Things
+#!/bin/bash echo "alx"
